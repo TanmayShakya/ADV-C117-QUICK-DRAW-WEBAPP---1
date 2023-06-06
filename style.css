@@ -1,0 +1,37 @@
+body{
+    background: lightgreen;
+    font-family: 'Oswald', sans-serif;
+}
+
+#score{
+    font-size: 25px;
+}
+
+#timer{
+    font-size: 25px;
+    float: right;
+    margin-right: 10px;
+}
+
+#Sketch_to_be_drawn{
+     color: red;
+     font-weight: bolder;
+     font-size: 25px;
+}
+
+#show_sketch {
+ float: right;
+}
+
+h1{
+    background-color:rgba(204, 201, 17, 0.505) ;
+    font-weight: bolder;
+    color: blue;
+}
+
+p{
+    font-weight: bolder;
+    font-size: 20px;
+    margin: 15px;
+    letter-spacing: 2px;
+}
